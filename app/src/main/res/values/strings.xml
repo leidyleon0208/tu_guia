@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tu_guia</string>
+    <string name="login_txtEmail_hint">Digite el email.</string>
+    <string name="login_txtClave_hint">Digite la contraseña.</string>
+    <string name="login_btnAcceder_text">Acceder</string>
+    <string name="login_btnRegistrar_text">Registrar</string>
+    <string name="acerca_de_txv_1_text">Creado por:</string>
+    <string name="acerca_de_txv_2_text">Leidy Yohana León Rodríguez</string>
+    <string name="acerca_de_btn_1_text">VOLVER</string>
+
+</resources>
