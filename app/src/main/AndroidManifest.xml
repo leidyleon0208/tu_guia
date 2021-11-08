@@ -10,13 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Tu_guia">
         <activity
-            android:name=".frm_nuevo_sitio"
+            android:name=".login"
             android:exported="false" />
         <activity
             android:name=".acerca_de"
             android:exported="false" />
         <activity
-            android:name=".login"
+            android:name=".frm_nuevo_sitio"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

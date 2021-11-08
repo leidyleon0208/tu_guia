@@ -9,5 +9,12 @@
     <string name="acerca_de_txv_3_text">Leidy Yohana León Rodríguez</string>
     <string name="acerca_de_btn_1_text">VOLVER</string>
     <string name="frm_nuevo_sitio_txv_1_text">NUEVO SITIO</string>
+    <string name="frm_nuevo_sitio_edt_1_hint">Ingrese el nombre del sitio</string>
+    <string name="frm_nuevo_sitio_edt_2_hint">Ingrese la descripción del sitio</string>
+    <string name="frm_nuevo_sitio_edt_3_hint">Digite o ubique la latitud del sitio</string>
+    <string name="frm_nuevo_sitio_edt_4_hint">Digite o ubique la longitud del sitio</string>
+    <string name="frm_nuevo_sitio_btn_guardar_text">Guardar</string>
+    <string name="frm_nuevo_sitio_btn_cancelar_text">Cancelar</string>
+
 
 </resources>

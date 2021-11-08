@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources name="sitiosarray">
+
+    <string-array name="sitiosarray">
+        <item>turistico</item>
+        <item>deportivo</item>
+        <item>gastronomico</item>
+        <item>arquitectonico</item>
+
+    </string-array>
+
+
+</resources>
