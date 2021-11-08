@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Tu_guia">
         <activity
+            android:name=".frm_nuevo_sitio"
+            android:exported="false" />
+        <activity
             android:name=".acerca_de"
             android:exported="false" />
         <activity
